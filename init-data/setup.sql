@@ -1,0 +1,4 @@
+CREATE DATABASE IF NOT EXISTS `jasonlws` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+GO
+USE `jasonlws`;
+GO
